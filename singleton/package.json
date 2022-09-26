@@ -1,0 +1,15 @@
+{
+  "name": "singleton",
+  "version": "1.0.0",
+  "description": "Exemplo de codigo Singleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.23",
+    "typescript": "^4.8.3"
+  }
+}
